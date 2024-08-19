@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @cleiton15y
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil 🎱
 
-<!---
-cleiton15y/cleiton15y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Meu nome é Cleiton 🍎
+ 
+### Estou estudando alura 🇧🇷
+ 
+ Estou me desenvolvendo na linguagem javascript
+ Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+ 
+### Você pode entrar em contato comigo 🇧🇷
+
+00001129811499sp@al.educacao.sp.gov.br 
